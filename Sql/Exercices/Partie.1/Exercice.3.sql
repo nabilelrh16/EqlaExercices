@@ -1,5 +1,5 @@
 use BlindCode2;
-Select Nom, Prenom, Email
+Select Nom, Prenom
 From Eleve;
 
 Select Nom, Lieu
